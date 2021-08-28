@@ -9,5 +9,11 @@ I. Basic
 - Day 2 - How to get data from requests
   - GET method
   - POST method
+- Day 3 - Work with data
+  - Code echo statement
+  - String expressions
+  - Numeric expressions
+  - Compound assignment operators
+  - Built-in functions 
 
 II. Advanced

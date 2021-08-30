@@ -14,6 +14,11 @@ I. Basic
   - String expressions
   - Numeric expressions
   - Compound assignment operators
-  - Built-in functions 
+  - Built-in functions
+- Day 4 - Intro MySQL
+  - Intro relational databases
+  - Tables
+  - Relationships
+  - Column, Row - Field, Record
 
 II. Advanced

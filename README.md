@@ -20,7 +20,7 @@ I. Basic
   - Tables
   - Relationships
   - Column, Row - Field, Record
- - Day 5 - MySQL Create tables and relationships
+- Day 5 - MySQL Create tables and relationships
   - Create tables
   - Create relationships
   - How to create, edit, delete, list data with phpMyAdmin

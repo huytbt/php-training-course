@@ -24,5 +24,8 @@ I. Basic
   - Create tables
   - Create relationships
   - How to create, edit, delete, list data with phpMyAdmin
+- Day 6 - SQL Statements
+  - SELECT query
+  - SELECT with relationships
 
 II. Advanced

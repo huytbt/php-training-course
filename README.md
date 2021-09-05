@@ -27,5 +27,8 @@ I. Basic
 - Day 6 - SQL Statements
   - SELECT query
   - SELECT with relationships
+- Day 7 - How to use PHP with MySQL
+  - Connect to database
+  - Execute SELECT statements - query, fetch
 
 II. Advanced

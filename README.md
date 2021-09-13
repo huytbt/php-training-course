@@ -31,6 +31,9 @@ I. Basic
   - Connect to database
   - Execute SELECT statements - query, fetch
   - Work with arrays
+- Day 8 - How to use PHP with MySQL
   - Execute INSERT, UPDATE, DELETE statements
+  - Validate data
+  - How to redirect request
 
 II. Advanced

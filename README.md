@@ -30,5 +30,6 @@ I. Basic
 - Day 7 - How to use PHP with MySQL
   - Connect to database
   - Execute SELECT statements - query, fetch
+  - Execute INSERT, UPDATE, DELETE statements
 
 II. Advanced

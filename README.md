@@ -35,5 +35,9 @@ I. Basic
   - Execute INSERT, UPDATE, DELETE statements
   - Validate data
   - How to redirect request
+- Day 9 - How to use MVC pattern
+  - Intro MVC
+  - How to code function
+  - Convert functions to MVC
 
 II. Advanced
